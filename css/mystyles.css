@@ -1,0 +1,46 @@
+body{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: black;
+        background-color: lightpink;
+    }
+    h1{
+        font-family: Arial, Helvetica, sans-serif;
+        color: black
+    }
+    .font-weight-bold{
+        color: floralwhite !important;
+        font-family: cursive !important;
+    }
+    /*div styles*/ 
+    .common{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: absolute;
+    }
+    .top{
+        top: 0px;
+        left: 0px;
+        right: 0px;
+    }
+    .middle{
+        top: 100px;
+        left: 0px;
+        right: 0px;
+    }
+    .bottom{
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+        z-index: 1;
+        text-align: center;
+        background-color: white;
+        font-style: italic;
+        font-weight: bold;
+    }
+    .imgcenter{
+        display: block;
+        margin: auto;
+        border: 5px solid pink;
+    }
+    #
+    
